@@ -29,7 +29,7 @@ Multimédia é a combinação, controlada por computador de pelo menos um tipo d
 - Interatividade;
 - Imersão.
 
-#### Evolução da Multimídia
+### Evolução da Multimídia
 
 Pc com Placa de Som e CD-Rom --> Redes Multimidias --> Realidade Virtual
 
@@ -48,9 +48,9 @@ Johnny Castaway -->  NÃO TEM WILSON --> MAS É DAORA
 - Arte.
 
 ---
-# Grafos Aula 1
+## Grafos Aula 1
 
-## Definição (Grafos)
+### Definição (Grafos)
 
 ```
 V = {a,b,c,d,e} (vertices)
@@ -64,7 +64,7 @@ E = {ae,be,ce,de,cd,cb} (arestas)
 * d(d) = 2
 * d(e) = 4
     
-#### Exemplo
+### Exemplo
 
 ![image](http://s.glbimg.com/og/rg/f/original/2011/12/09/pontes_grafo_291_218.jpg)
 
@@ -136,7 +136,7 @@ Síntese:
 
 ### Geração do Código Intermadiário
 
-#### Exemplo:
+### Exemplo:
 ``` 
                                     x: =(a+c)*(d-10);
 ``` 
