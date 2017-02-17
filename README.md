@@ -3,7 +3,7 @@
 
 | Segunda (Eng. Soft)| Terça (Multi)| Quarta (Grafos/Comp)| Quinta (Micro)| Sexta (CSS)|
 |---------|-------|--------|--------|-------|
-|[Aula 1](#eng-aula-1)|  [Aula-1](#multimídia-aula-1)|[Aula 1 Compiladores](#compiladores-aula-1) [Aula 1 Grafos](#grafos-aula-1) | | [Aula 1](#programacaointenet-aula-1) |
+|[06/02](#eng-aula-1)|  [07/02](#multimídia-aula-1)|[08/02 Compiladores](#compiladores-aula-1) [08/02 Grafos](#grafos-aula-1) | | [10/02](#programacaointenet-aula-1) |
 
 ## Multimídia Aula 1
 
