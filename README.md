@@ -1,20 +1,9 @@
 # Roteiro-2017
 
 
-- Engenharia de Software:
-    - [Aula 1](#eng-aula-1)
-
-- Multimídia:
-    - [Aula-1](#multimídia-aula-1)
- 
-- Compiladores:
-    - [Aula-1](#compiladores-aula-1)
-
-- Grafos:
-    - [Aula 1](#grafos-aula-1)
-    
-- Programação para Internet:
-    - [Aula 1](#programacaointenet-aula-1)
+| Segunda (Eng. Soft)| Terça (Multi)| Quarta (Grafos/Comp)| Quinta (Micro)| Sexta (CSS)|
+|---------|-------|--------|--------|-------|
+|[Aula 1](#eng-aula-1)|  [Aula-1](#multimídia-aula-1)|[Aula 1 Compiladores](#compiladores-aula-1) [Aula 1 Grafos](#grafos-aula-1) | | [Aula 1](#programacaointenet-aula-1) |
 
 ## Multimídia Aula 1
 
