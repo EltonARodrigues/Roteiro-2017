@@ -1,8 +1,8 @@
 # Roteiro-2017
 
-| Engenharia de Software  | Multimídia   | Grafos/Compiladores  | Microcontroladores  | Programação Internet  |
+| Engenharia de Software  | Multimídia            |    Grafos/Compiladores  | Microcontroladores  | Programação Internet  |
 |---|---|---|---|---|
-|[Teste-](#teste)|[Multimídia Aula 1](#multimídia-aula-1)|[Compiladores Aula 1](#compiladores-aula-1)|||
+|                         |  [Multimídia Aula 1](#multimídia-aula-1)   |   [Compiladores Aula 1](#compiladores-aula-1)    |                       |
 |||[Grafos Aula 1](#grafos-aula-1)||
 |||||
 
