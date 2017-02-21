@@ -68,7 +68,6 @@ Multimédia é a combinação, controlada por computador de pelo menos um tipo d
 - Gráficos;
 - Textos (incluindo números, tabelas, etc.).
 
- :shit: Antes era 1k agora é kkkk - CASTILHO,Ediclei :shit:
 
 ### Características Multimídia 
 
@@ -79,8 +78,6 @@ Multimédia é a combinação, controlada por computador de pelo menos um tipo d
 ### Evolução da Multimídia
 
 Pc com Placa de Som e CD-Rom --> Redes Multimidias --> Realidade Virtual
-
-Johnny Castaway -->  NÃO TEM WILSON --> MAS É DAORA
 
 ### Aplicação Multimídia 
 
@@ -195,5 +192,44 @@ Síntese:
 |    *   |  temp1 |  temp2 |  temp3  |
 |   :=   |  temp3 |        |    x    |
                        
+Aula 3 - Engenharia de Software
+
+# Compiladores 
+
+Acesso ao material da disciplina:
+``migre.me/w455y``
+---
+Código Fonte ------> Compilador ------> Programa/objeto(assembly)
+
+Analise --- Sintese
 
 
+
+
+
+Análise:
+- Análise Léxica;
+- Análise Sintática;
+- Análise Semântica.
+   ``TABELA DE SÍMBOLO``\
+Síntese:
+- Geração de código intermediario;
+- Otimização de código;
+- Geração de código;
+ `` Tabela de Erros`` 
+
+### Geração do Código Intermadiário
+
+#### Exemplo:
+``` 
+                                    x: =(a+c)*(d-10);
+``` 
+
+|OPERAÇÃO|OPERAÇÃO|OPERAÇÃO|RESULTADO|
+|    -   |    -   |    -   |    -    |
+|    +   |    a   |    c   |  temp1  |
+|    -   |   -d   |   10   |  temp2  |
+|    *   |  temp1 |  temp2 |  temp3  |
+|   :=   |  temp3 |  ---   |    x    |
+
+               
