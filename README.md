@@ -23,7 +23,7 @@
 - Elaboração de relatórios sobre o projeto.
 
 |Plano| Descição|
-|--|--|
+| ---| ---|
 |Plano de Qualidade | Descreve procedimento e padrão de qualidade|
 |Plano de validação | Descreve abordagem recursos e cronogramas|
 |Plano de gere3ncimanto de configuração | Descreve procedimento e estruturas sobre o gerencimanto de configurações| 
