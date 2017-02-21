@@ -4,7 +4,7 @@
 | Segunda (Eng. Soft)| Terça (Multi)| Quarta (Grafos/Comp)| Quinta (Micro)| Sexta (CSS)|
 |---------|-------|--------|--------|-------|
 |[06/02](#eng-aula-1)|  [07/02](#multimídia-aula-1)|[08/02 Compiladores](#compiladores-aula-1) [08/02 Grafos](#grafos-aula-1) | | [10/02](#programacaointenet-aula-1) |
-|[20/02](#aula-3-engenharia-de-software)|||||
+|[20/02](#aula-3-engenharia-de-software)||[15/02](#aula-2-compiladores)|||
 
 ## Aula 3 - Engenharia de Software
 
@@ -192,9 +192,9 @@ Síntese:
 |    *   |  temp1 |  temp2 |  temp3  |
 |   :=   |  temp3 |        |    x    |
                        
-Aula 3 - Engenharia de Software
 
-# Compiladores 
+
+## Aula 2 - Compiladores 
 
 Acesso ao material da disciplina:
 ``migre.me/w455y``
@@ -202,10 +202,6 @@ Acesso ao material da disciplina:
 Código Fonte ------> Compilador ------> Programa/objeto(assembly)
 
 Analise --- Sintese
-
-
-
-
 
 Análise:
 - Análise Léxica;
