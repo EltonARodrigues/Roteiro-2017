@@ -4,7 +4,7 @@
 | Segunda (Eng. Soft)| Terça (Multi)| Quarta (Grafos/Comp)| Quinta (Micro)| Sexta (CSS)|
 |---------|-------|--------|--------|-------|
 |[06/02](#eng-aula-1)|  [07/02](#multimídia-aula-1)|[08/02 Compiladores](#compiladores-aula-1) [08/02 Grafos](#grafos-aula-1) | | [10/02](#programacaointenet-aula-1) |
-|[20/02](#aula-3-engenharia-de-software)||[15/02 Compiladores](#aula-2-compiladores) [15/02 Grafos](#grafos-aula-2)|||
+|[20/02](#aula-3---engenharia-de-software)||[15/02 Compiladores](#aula-2-compiladores) [15/02 Grafos](#grafos-aula-2)|||
 
 ## Aula 3 - Engenharia de Software
 
