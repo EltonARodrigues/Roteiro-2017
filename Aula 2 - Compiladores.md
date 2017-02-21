@@ -30,15 +30,10 @@ Síntese:
 ``` 
 
 |OPERAÇÃO|OPERAÇÃO|OPERAÇÃO|RESULTADO|
-|    -   |    -   |    -   |    -    |
+|    ---   |   ---   |    ---   |    ---    |
 |    +   |    a   |    c   |  temp1  |
 |    -   |   -d   |   10   |  temp2  |
 |    *   |  temp1 |  temp2 |  temp3  |
-|   :=   |  temp3 |  ---   |    x    |
+|   :=   |  temp3 |        |    x    |
 
-``` 
-                                
-                                
-``` 
-                                  
 
