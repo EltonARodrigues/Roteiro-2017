@@ -161,7 +161,7 @@ Para uma aresta `(Vi,Vj)` é representada por uma linha ligando `Vi` a um `Vj` c
 ## Compiladores Aula 1
 
 Acesso ao material da disciplina:
-``migre.me/w455y``
+``migre.me/w455Y``
 ---
 Código Fonte ------> Compilador ------> Programa/objeto(assembly)
 
